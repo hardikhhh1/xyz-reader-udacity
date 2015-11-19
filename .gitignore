@@ -1,4 +1,8 @@
+.gradle/*
 .DS_Store
 .idea
 .idea/*
-
+build/*
+XYZReader/build/*
+*.iml
+*.properties
